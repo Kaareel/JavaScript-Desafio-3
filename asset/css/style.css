@@ -1,0 +1,28 @@
+.main{
+    display: flex;
+    flex-direction: row;
+  }
+    #text {
+      background-color: red;
+      width: 200px;
+      height: 200px;
+      
+    }
+    #text2 {
+      background-color: greenyellow;
+      width: 200px;
+      height: 200px;
+      
+    }
+    #text3 {
+      background-color: orange;
+      width: 200px;
+      height: 200px;
+      
+    }
+    #text4 {
+      background-color: violet;
+      width: 200px;
+      height: 200px;
+      
+    }
